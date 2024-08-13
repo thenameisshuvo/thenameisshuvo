@@ -7,7 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenameis_shuvo/)
 [![](https://visitcount.itsvg.in/api?id=thenameisshuvo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/thenameisshuvo)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=5000&pause=1000&color=0D1117&width=500&lines=Lost+my+old+account,+but+not+the+momentum;This+is+where+we+continue)](https://github.com/thenameisshuvo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=5000&pause=1000&color=0D1117&width=900&lines=Lost+my+old+account,+but+not+the+momentum+this+is+where+we+continue)](https://github.com/thenameisshuvo)
+
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=thenameisshuvo)
