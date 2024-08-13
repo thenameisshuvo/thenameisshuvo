@@ -5,6 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanvirrahman.shuvo.31)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvotanvir702@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenameis_shuvo/)
+[![](https://visitcount.itsvg.in/api?id=thenameisshuvo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/thenameisshuvo)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Labir852.Labir852)
 
