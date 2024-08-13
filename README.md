@@ -60,14 +60,6 @@ Microsoft Visual Studio Code, LinkedIn , HackerRank , W3Schools        ███
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div>
-  [![Github Badge](https://img.shields.io/badge/Github-1F2328?style=for-the-badge&logo=github&logoColor=white)](#)
-  [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7532F9?style=for-the-badge&labelColor=202020&logo=bootstrap&logoColor=7532F9)](#)
-  [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&labelColor=202020&logo=tailwindcss&logoColor=38BDF8)](#)
-  [![React.js Badge](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&labelColor=202020&logo=react&logoColor=61DBFB)](#)
-  [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=202020&logo=npm&logoColor=CB3837)](#)
-  [![Vite Badge](https://img.shields.io/badge/Vite-A735F2?style=for-the-badge&labelColor=202020&logo=vite&logoColor=F2BE22)](#)
-  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-22A6F1?style=for-the-badge&labelColor=202020&logo=visualstudio&logoColor=22A6F1)](#)
-
 
 
 📈 **My GitHub Stats:**
