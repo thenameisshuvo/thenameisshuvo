@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenameis_shuvo/)
 [![](https://visitcount.itsvg.in/api?id=thenameisshuvo&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/thenameisshuvo)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Labir852.Labir852)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=thenameisshuvo)
 
 I am a CS Engineer.Dedicated to crafting elegant code, embracing technological evolution, and savoring the beauty of new experiences.
 
