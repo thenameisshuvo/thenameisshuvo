@@ -23,7 +23,7 @@ My journey as a CS Engineer is guided by a commitment to detail and a passion fo
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/thenameisshuvo/Self-Storages-/blob/main/developer.gif?raw=true" width="21" /> &nbsp;&nbsp; My current focus is on developing web applications, blending frontend creativity with backend functionality to deliver high-impact solutions;
-- <img src="https://github.com/thenameisshuvo/Self-Storages-/blob/main/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently upgrading my skills on [W3Schools](https://www.w3schools.com) & [HackerRank](https://www.hackerrank.com);
+- <img src="https://github.com/thenameisshuvo/Self-Storages-/blob/main/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently upgrading my skills from [W3Schools](https://www.w3schools.com) & [HackerRank](https://www.hackerrank.com);
 - <img src="https://github.com/thenameisshuvo/Self-Storages-/blob/main/laptop.gif?raw=true" width="21" /> &nbsp;&nbsp;I’m eager to collaborate on open-source web projects and contribute to software development within innovative companies;
 - <img src="https://github.com/thenameisshuvo/Self-Storages-/blob/main/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; Feel free to reach out with any questions or if you need assistance—I'm here to help;
 - <img src="https://github.com/thenameisshuvo/Self-Storages-/blob/main/message.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: [![Gmail Badge](https://img.shields.io/badge/-shuvotanvir702@gmail.com-orange?style=flat&logo=gmail&logoColor=white)](mailto:shuvotanvir702@gmail.com/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenameisshuvo/)
