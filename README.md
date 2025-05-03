@@ -11,7 +11,8 @@
 
 
 
-### Glad to see you here! https://letscountapi.com/api/counter?namespace=thenameisshuvo&key=visits
+### Glad to see you here! ![Visitor Count](https://img.shields.io/badge/Visitors-$(curl -s https://letscountapi.com/api/counter?namespace=thenameisshuvo&key=visits | jq .value)-blue)
+
 
 
 
