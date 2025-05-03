@@ -11,7 +11,8 @@
 
 
 
-### Glad to see you here! (https://letscountapi.com/api/increment?namespace=thenameisshuvo&key=visits)
+### Glad to see you here! https://letscountapi.com/api/counter?namespace=thenameisshuvo&key=visits
+
 
 
 I am a CS Engineer.Dedicated to crafting elegant code, embracing technological evolution, and savoring the beauty of new experiences.
