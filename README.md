@@ -76,7 +76,7 @@ Microsoft Visual Studio Code, LinkedIn , HackerRank , W3Schools        ███
 
 <p>
   <img height="180em" src="[![Shuvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenameisshuvo)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameisshuvo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000"/>
+
 </p>
 
 
