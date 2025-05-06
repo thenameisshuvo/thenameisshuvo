@@ -9,8 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1000&color=FF0000&width=800&lines=Lost+my+old+account,+but+not+the+momentum+-this+is+where+we+continue)](https://github.com/thenameisshuvo)
 
-
-
 ### Glad to see you here!
 
 <p align="left">
